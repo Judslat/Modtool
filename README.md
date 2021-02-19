@@ -8,3 +8,8 @@ progress.
 
 Thanks to all the OG's for the files, ive not made any changes to any
 of them except for Bin4ry modder tool to which he agreed.
+
+
+Changelog
+
+V2 changed the layout and colours
