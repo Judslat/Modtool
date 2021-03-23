@@ -15,3 +15,5 @@ includes all the tools
 Changelog
 
 V2 changed the layout and colours
+
+V3 now includes Silencio software and a redesign
