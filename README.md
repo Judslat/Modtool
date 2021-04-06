@@ -21,8 +21,8 @@ JKSon FCC MOD,
 
 
 The file is a self extracting Archive, just download it as a zip
-and then double click the file called Modding tool setup.part01.rar
-and extract the single file to desktop, run it and will install
+and then double click the file called modtoolsetup.part01.rar
+and double click modtoolsetup.exe file and it will install
 the files needed
 
 run it from the shortcut on the desktop, this is a work in 
@@ -41,3 +41,5 @@ Changelog
 V2 changed the layout and colours
 
 V3 now includes Silencio software and a redesign
+
+V4 now includes Drone-hacks tool ( i will update the tool when a new version is availabe)
