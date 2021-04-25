@@ -20,10 +20,9 @@ JKSon FCC MOD,
 
 
 
-The file is a self extracting Archive, just download it as a zip
-and then double click the file called modtoolsetup.part01.rar
-and double click modtoolsetup.exe file and it will install
-the files needed
+The file is to big for Github to host so I have uploaded
+it to dropbox, just run the "RUN.BAT file and this will
+download the tool and start the installer
 
 run it from the shortcut on the desktop, this is a work in 
 progress.
